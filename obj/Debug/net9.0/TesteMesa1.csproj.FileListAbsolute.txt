@@ -1,0 +1,14 @@
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\TesteMesa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\TesteMesa1.AssemblyInfoInputs.cache
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\TesteMesa1.AssemblyInfo.cs
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\TesteMesa1.csproj.CoreCompileInputs.cache
+C:\Users\tengh\Downloads\TesteMesa1\bin\Debug\net9.0\TesteMesa1.exe
+C:\Users\tengh\Downloads\TesteMesa1\bin\Debug\net9.0\TesteMesa1.deps.json
+C:\Users\tengh\Downloads\TesteMesa1\bin\Debug\net9.0\TesteMesa1.runtimeconfig.json
+C:\Users\tengh\Downloads\TesteMesa1\bin\Debug\net9.0\TesteMesa1.dll
+C:\Users\tengh\Downloads\TesteMesa1\bin\Debug\net9.0\TesteMesa1.pdb
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\TesteMesa1.dll
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\refint\TesteMesa1.dll
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\TesteMesa1.pdb
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\TesteMesa1.genruntimeconfig.cache
+C:\Users\tengh\Downloads\TesteMesa1\obj\Debug\net9.0\ref\TesteMesa1.dll
